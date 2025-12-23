@@ -5,8 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamsinghyadav25" alt="shivamsinghyadav25" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot,Thymleaf,Bootstrap,Hibernate,Spring Framework,HTML,CSS,JavaScript,Data Structure and Algorithm,Database,Junit.**
-
+-  🌱 I am currently building expertise in Java Full Stack and Microservices Development, with hands-on learning in Spring Boot, Spring Framework, Spring Data JPA (Hibernate), RESTful APIs, Thymeleaf, Bootstrap, HTML5, CSS3, JavaScript, Data Structures & Algorithms, Database Systems, and JUnit for testing.
 - 👯 I’m looking to collaborate on **Java Full Stack**
 
 - 🤝 I’m looking for help with **Spring**
