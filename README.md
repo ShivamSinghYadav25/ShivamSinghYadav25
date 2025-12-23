@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Spring**
 
-- 👨‍💻 All of my projects are available at [https://shivamwebportfoliojfs.netlify.app/](https://shivamwebportfoliojfs.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://java-stack-shivam-portfolio.vercel.app/]
 
 - 💬 Ask me about **J2SE,J2EE,MySql,AWS.**
 
