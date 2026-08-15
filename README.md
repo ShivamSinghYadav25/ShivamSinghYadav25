@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **y.shivam9500@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xfGnGCWPfoZ1crfDuLwoqGulo0oCCkQs/view?usp=drivesdk]https://drive.google.com/file/d/1J_fyeQ7AVv7VvCeo_ZLIrIKytPs483OB/view?usp=sharing
+- 📄 Know about my experiences https://drive.google.com/file/d/1J_fyeQ7AVv7VvCeo_ZLIrIKytPs483OB/view?usp=sharing
 
 - ⚡ Fun fact **I Love playing Cricket.**
 
